@@ -1,0 +1,3 @@
+中国大陆安全上网指南
+=====
+有兴趣参与者请[注册github账号](https://github.com/signup/free)直接编辑[Wiki](https://github.com/Realm0xFFreedom/Safe-Chinternet/wiki)
